@@ -1,0 +1,47 @@
+
+    body{
+        background-color: #f5fcfb;
+    }
+    .ligne-point{
+        
+        border-style:none;
+        border-top-style:  dotted;
+        border-color: rgb(233, 226, 226) ;
+        border-width: 10px;
+        width: 50%;
+    }
+    h1,h3{
+        color: #179944;
+        
+    }
+
+    img{
+        border-radius: 100% ;
+    }
+
+    h1:hover{
+        background-color: bisque;
+    }
+    td{
+        padding-right: 40px;
+        padding-bottom: 10px;
+    }
+
+    .body-form{
+        text-align: center;
+    }
+
+    .contact{
+        background-color: #179944;
+        color: #f5fcfb;
+    }
+    form{
+        padding-top: 6%;
+
+    }
+    .mon-mail{
+        font-size: 30px;
+    }
+    .champ-saisie{
+        width: 30%;
+    }
